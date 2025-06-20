@@ -1,8 +1,28 @@
 <h1>🙋 </h1>
 
 <!-- dynamic typing effect 动态打字效果 -->
-  <div><a href="https:///typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%A4%A7%E6%BB%A1%E5%88%99%E6%BA%A2%EF%BC%8C%E5%B0%8F%E6%BB%A1%E5%88%99%E5%AE%89%EF%BC%8C%E4%BA%BA%E7%94%9F%E5%B0%8F%E6%BB%A1%E8%83%9C%E4%B8%87%E5%85%A8%EF%BC%81" alt="Typing SVG" /></a>
-  </div>
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 435 50'
+    style='background-color: #00000000;'
+    width='435px' height='50px'>
+
+    
+                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d0.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Fira Code", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            大满则溢，小满则安，人生小满胜万全！
+        </textPath>
+    </text>
+</svg>
 <!--
 **rookie1006/rookie1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
